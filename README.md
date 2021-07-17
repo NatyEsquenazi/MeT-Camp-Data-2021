@@ -9,7 +9,12 @@ Para mujeres y diversidades (que cuenten o no con conocimientos previos) que qui
 
 Speakers
 
-Fui speaker invitada del primer encuentro 
+Marilina Trevisan
+Natalia Esquenazi: Fui speaker invitada del primer encuentro 
+Miranda Chab
+Yanina Iberra
+Paula Canepa
+Tatiana Bellagio
 
 Encuentro 1 y 2: “AVENTURATE EN EL MUNDO DE LOS DATOS”
 -Introducción a Data Science.
