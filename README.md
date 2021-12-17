@@ -30,6 +30,7 @@ Encuentro 1 y 2: “AVENTURATE EN EL MUNDO DE LOS DATOS”
 – Análisis Exploratorio de Datos.
 
 Encuentro 3 y 4: “LUZ, DATOS, ACCIÓN!: PREDECIR CON MACHINE LEARNING”
+
 – Introducción a modelos de Machine Learning.
 
 – Modelos supervisados o no supervisados.
